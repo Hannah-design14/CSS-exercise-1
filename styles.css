@@ -1,0 +1,26 @@
+html {
+    background-color:#eee;
+}
+
+.menu-heading {
+    border-style: solid;
+    border-color: #000;
+    border-width: 2px;
+    padding: 10px;
+    margin-bottom: 30px;
+    background-color: #ddd;
+}
+.menu-list {
+    list-style-type: none;
+    color: hsl(0,50%,50%);
+    font-family: sans-serif;
+    font-weight: normal;
+}
+.menu {}
+
+.menu-heading {
+    font-weight: normal;
+}
+.menu-sub-list {
+    list-style-type: none;
+}
