@@ -1,5 +1,6 @@
 html {
     background-color:#eee;
+    font-family: sans-serif;
 }
 
 .menu-heading {
@@ -9,18 +10,14 @@ html {
     padding: 10px;
     margin-bottom: 30px;
     background-color: #ddd;
+    color: hsl(0,50%,50%)
 }
-.menu-list {
+.list {
+    background-color: skyblue;
+}
+.title {
     list-style-type: none;
-    color: hsl(0,50%,50%);
-    font-family: sans-serif;
-    font-weight: normal;
 }
-.menu {}
-
-.menu-heading {
-    font-weight: normal;
-}
-.menu-sub-list {
-    list-style-type: none;
+.local-sandwhiches {
+    background-color: deepskyblue;
 }
